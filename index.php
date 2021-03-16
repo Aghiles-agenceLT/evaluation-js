@@ -29,7 +29,7 @@
   <body>
     <h1>Le jeux des nombres</h1>
 
-    <p>Nous avons selectioné un nombre entre 1 et 100. Essayez de le trouver en moins de 10 essais ! Nous vous dirons si le nombre saisi est trop petit ou trop grand.</p>
+    <p>Nous avons sélectionné un nombre entre 1 et 100. Essayez de le trouver en moins de 10 essais ! Nous vous dirons si le nombre saisi est trop petit ou trop grand.</p>
 
     <div class="form">
       <label for="guessField">Entrez un nombre : </label>
